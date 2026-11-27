@@ -1,2 +1,7 @@
 # Demo
-this is a demo for git &amp; Github class by dhakad
+this is a demo for git &amp; Github class by dhakad.
+
+# student
+
+i am ankush dhakad .
+
